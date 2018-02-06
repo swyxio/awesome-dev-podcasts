@@ -29,55 +29,56 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 
 ## 3. Non Webdev Technical podcasts
 
-- **Coding Blocks**: Reading through and discussing coding style books.
-- **Talk Python To Me**: does a great job of keeping python topics accessible. Stark contrast to the monotone of Podcast.__init__ (the other big python podcast)
-- **Data Skeptic**: Kyle Polich mansplains data science to his wife Linh Da and she constantly gives him shit.
-- **Linear Digressions**: Ben and Katie talk data science, usually with a lame pun
-- **Not So Standard Deviations**: Roger Peng (professor somewhere) and Hilary Parker (stitchfix) talk data science
-- **LambdaCast**: functional programming for humans
-- **Machine Learning Guide**: very intense topical coverage of ML topics
-- **TWiMLAI: This Week In Machine Learning and AI**: Sam Charrington, THE AI/ML podcast, huge.
-- **Mapping The Journey**: interviews with very very OG creators of tech
+- **[Coding Blocks](https://www.codingblocks.net/)**: Reading through and discussing coding style books.
+- **[Talk Python To Me](https://talkpython.fm/)**: does a great job of keeping python topics accessible. Stark contrast to the monotone of Podcast.__init__ (the other big python podcast)
+- **[Data Skeptic](https://dataskeptic.com/)**: Kyle Polich mansplains data science to his wife Linh Da and she constantly gives him shit.
+- **[Linear Digressions](http://lineardigressions.com/)**: Ben and Katie talk data science, usually with a lame pun
+- **[Not So Standard Deviations](http://nssdeviations.com/)**: Roger Peng (professor somewhere) and Hilary Parker (stitchfix) talk data science
+- **[LambdaCast](https://soundcloud.com/lambda-cast)**: functional programming for humans
+- **[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)**: very intense topical coverage of ML topics
+- **[TWiMLAI](https://twimlai.com/): This Week In Machine Learning and AI**: Sam Charrington, THE AI/ML podcast, huge.
+- **[Mapping The Journey](https://www.mappingthejourney.com/)**: interviews with very very OG creators of tech
 
 # Enreprogrammer Podcasts
 
-- **Startups for the Rest of Us**: Rob Walling, Cofounder of Drip, and Mike taber, founder of Bluetick
+- **[Startups for the Rest of Us](http://www.startupsfortherestofus.com/)**: Rob Walling, Cofounder of Drip, and Mike taber, founder of Bluetick
 - **Founder's Journey**: Josh Pigford of Baremetrics
-- **Full Stack Radio**: Adam Wathan
+- **[Full Stack Radio](http://www.fullstackradio.com/)**: Adam Wathan
 - **Bootstrapped Web**: Brian Casel and Jordan Gal
-- **Indie Hackers**: CSAllen is awesome
+- **[Indie Hackers](https://www.indiehackers.com/)**: CSAllen is awesome
 
 # Crypto Podcasts
 
-- **Explain Blockchain**: audio essays on intro topics
-- **The Bitcoin Podcast**: Cello, Dee and Corey talk smack and talk sense about crypto.
-- **Neocash Radio**: good news recap
-- **Lets Talk Bitcoin**: non newbie, non price discussion of blockchain developments
-- **Unchained**: laura shin (ex forbes) on crypto
+- **[Explain Blockchain](https://explainblockchain.io/)**: audio essays on intro topics
+- **[The Bitcoin Podcast](https://thebitcoinpodcast.com/)**: Cello, Dee and Corey talk smack and talk sense about crypto.
+- **[Neocash Radio](http://neocashradio.com/)**: good news recap
+- **[Lets Talk Bitcoin](https://letstalkbitcoin.com/)**: non newbie, non price discussion of blockchain developments
+- **[Unchained](http://unchainedpodcast.co/)**: laura shin (ex forbes) on crypto
 
 # Nontechnical Podcasts
 
 - **Stanford DFJ ETL**: Stanford entrepreneurship talks
-- **Psychology of VIdeo Games**: what it says on the tin
-- **Stack Overflow podcast**: hilarious
+- **[sychology of Video Games](http://www.psychologyofgames.com/)**: studying addictiveness from the masters
+- **[Stack Overflow podcast](https://stackoverflow.blog/podcasts/)**: hilarious
 - **The Startup Chat**: sales/marketing quick hits
-- **Zen Founder**: therapy sessions with Sherry and Rob Walling
+- **[Zen Founder](https://zenfounder.com/)**: therapy sessions with Sherry and Rob Walling
 - **[Using Reflection](https://itunes.apple.com/us/podcast/using-reflection/id1294155220?mt=2)**: Mark Weiss talks to people about their tech careers
 - **[Impostor Syndrome](https://www.impostor-syndrome.org/)**: _Shameless self plug!_ long form stories of a panel of people before, during, and after a bootcamp
-- **Second Career Devs**: Kyle Shevlin talks to career changers into development
+- **[Second Career Devs](https://secondcareerdevs.com/)**: Kyle Shevlin talks to career changers into development
 
 # Generalist Podcasts (Nontechnical as well as Technical Content)
 
 - **[Software Engineering Daily](https://softwareengineeringdaily.com/)**: a wide variety of content from cloud to blockchain. very good intro pieces by Jeff Meyerson.
-- **YCombinator**: YC podcast, more inspirational than practical. recorded video also.
-- **a16z**: great topic choices from a16z
-- **acquired.fm**: about tech acquisitions and trends
-- **The Bike Shed**: Thoughtbot's podcast
-- **China Tech Talk**: covering China's tech scene
-- **Command Line Heroes**: Saron Yitbarek covers old tech stories
+- **[YCombinator](http://blog.ycombinator.com/category/podcast/)**: YC podcast, more inspirational than practical. recorded video also.
+- **[a16z](https://a16z.com/podcasts/)**: great topic choices from a16z
+- **[acquired.fm](http://www.acquired.fm/)**: about tech acquisitions and trends
+- **[The Bike Shed](http://bikeshed.fm/)**: Thoughtbot's podcast
+- **[China Tech Talk](http://chinatechtalk.libsyn.com/)**: covering China's tech scene
+- **[Command Line Heroes](https://www.redhat.com/en/command-line-heroes)**: Saron Yitbarek covers old tech stories
 - **The Economist: Babbage**: The Economist tech column for free
-- **Exponent.fm**: Ben Thompson talks about his weekly articles
+- **[Exponent.fm](http://exponent.fm/)**: Ben Thompson talks about his weekly articles
 - **FreeCodeCamp podcast**: good FCC articles read aloud
+- **[Autonocast](http://www.autonocast.com/)**: covering our self driving future
 
 # Dead Podcasts with good backlogs
 
