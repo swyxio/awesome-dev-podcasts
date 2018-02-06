@@ -1,12 +1,12 @@
 # awesome-dev-podcasts
-a curated list of awesome dev podcasts and why they are awesome. I don't like normal "awesome" lists because they are usually not well maintained and are typically placed without an explanation of awesome, so here i will
+a curated list of awesome dev podcasts and why they are awesome. I don't like normal "awesome" lists because they are usually not well maintained and are typically placed without an explanation of awesome, so here i will actually go out on a limb and say what i think. i'm a webdev and former finance guy so those are my biases.
 
 # Technical Podcasts
 
 ## 1. Javascript
 
 - **Devchat.TV Master feed (Javascript Jabber, My JS Story)**: for some good interviews as well as picks
-- **React Native Radio**: for react native
+- **React Native Radio**: for react native stuff
 - **The React Podcast**: Michael Jackson's new podcast (not to be confused with React30)
 - **JAMStack Radio**: Netlify/Heavybit marketing for the JAMStack idea
 - **3 Minutes with Kent**: Kent Dodds in 3 minutes
@@ -74,7 +74,7 @@ a curated list of awesome dev podcasts and why they are awesome. I don't like no
 - **Exponent.fm**: Ben Thompson talks about his weekly articles
 - **FreeCodeCamp podcast**: good FCC articles read aloud
 - **Impostor Syndrome**: Shameless self plug! long form stories of a panel of people before, during, and after a bootcamp
-
+- **Second Career Devs**: Kyle Shevlin talks to career changers into development
 
 # Dead Podcasts with good backlogs
 
