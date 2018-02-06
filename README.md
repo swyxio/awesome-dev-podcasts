@@ -5,18 +5,18 @@ a curated list of awesome dev podcasts and why they are awesome. I don't like no
 
 ## 1. Javascript
 
-- **Devchat.TV Master feed (Javascript Jabber, My JS Story)**: for some good interviews as well as picks
-- **React Native Radio**: for react native stuff
-- **The React Podcast**: Michael Jackson's new podcast (not to be confused with React30)
-- **JAMStack Radio**: Netlify/Heavybit marketing for the JAMStack idea
-- **3 Minutes with Kent**: Kent Dodds in 3 minutes
-- **Egghead.io developer chats**: by egghead.io instructors
-- **Syntax.fm**: wes bos and scott tolinski talk webdev
+- **Devchat.TV Master feed ([Javascript Jabber](https://devchat.tv/js-jabber), My JS Story)**: for some good interviews as well as picks
+- **[React Native Radio](https://devchat.tv/react-native-radio)**: for react native stuff
+- **[The React Podcast](https://www.spreaker.com/show/the-react-podcast)**: Michael Jackson's new podcast (not to be confused with React30)
+- **[JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)**: Netlify/Heavybit marketing for the JAMStack idea
+- **[3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent)**: Kent Dodds in 3 minutes
+- **[Egghead.io developer chats](https://egghead.simplecast.fm/)**: by egghead.io instructors
+- **[Syntax.fm](https://syntax.fm/)**: wes bos and scott tolinski are full of tasty treats and sicccccck picks
 
 ## 2. Non JS Webdev Technical podcasts
 
-- **The Changelog**: Interviews of Open Source people. I skip a lot of these but its good to keep tabs on the huge world outside of JS.
-- **Codepen Radio**: The inside look at the technical decisions behind Codepen.io.
+- **[The Changelog](https://changelog.com/)**: Interviews of Open Source people. I skip a lot of these but its good to keep tabs on the huge world outside of JS.
+- **[Codepen Radio](https://blog.codepen.io/radio/)**: The inside look at the technical decisions behind Codepen.io.
 - **Shoptalk Show**: Chris Coiyer and Dave Rupert talk webdev.
 - **Toolsday**: Una Kravets (Bustle) and Chris Dhanaraj (Netflix) do 20 minutes of tech tools, tips, and tricks. Very packed with useful info.
 - **Non Breaking Space Show**: good webdev guests
@@ -60,10 +60,13 @@ a curated list of awesome dev podcasts and why they are awesome. I don't like no
 - **Stack Overflow podcast**: hilarious
 - **The Startup Chat**: sales/marketing quick hits
 - **Zen Founder**: therapy sessions with Sherry and Rob Walling
+- **[Using Reflection](https://itunes.apple.com/us/podcast/using-reflection/id1294155220?mt=2)**: Mark Weiss talks to people about their tech careers
+- **[Impostor Syndrome](https://www.impostor-syndrome.org/)**: _Shameless self plug!_ long form stories of a panel of people before, during, and after a bootcamp
+- **Second Career Devs**: Kyle Shevlin talks to career changers into development
 
 # Generalist Podcasts (Nontechnical as well as Technical Content)
 
-- **Software Engineering Daily**: a wide variety of content from cloud to blockchain. very good intro pieces by Jeff Meyerson.
+- **[Software Engineering Daily](https://softwareengineeringdaily.com/)**: a wide variety of content from cloud to blockchain. very good intro pieces by Jeff Meyerson.
 - **YCombinator**: YC podcast, more inspirational than practical. recorded video also.
 - **a16z**: great topic choices from a16z
 - **acquired.fm**: about tech acquisitions and trends
@@ -73,8 +76,6 @@ a curated list of awesome dev podcasts and why they are awesome. I don't like no
 - **The Economist: Babbage**: The Economist tech column for free
 - **Exponent.fm**: Ben Thompson talks about his weekly articles
 - **FreeCodeCamp podcast**: good FCC articles read aloud
-- **Impostor Syndrome**: Shameless self plug! long form stories of a panel of people before, during, and after a bootcamp
-- **Second Career Devs**: Kyle Shevlin talks to career changers into development
 
 # Dead Podcasts with good backlogs
 
