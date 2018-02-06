@@ -1,6 +1,8 @@
 # awesome-dev-podcasts
 a curated list of awesome dev podcasts and why they are awesome. I don't like normal "awesome" lists because they are usually not well maintained and are typically placed without an explanation of awesome, so here i will actually go out on a limb and say what i think. i'm a webdev and former finance guy so those are my biases.
 
+_note: links are incomplete because i havent had the time to link stuff up, you're gonna wanna just punch them in to your podcatcher anyway_
+
 # Technical Podcasts
 
 ## 1. Javascript
@@ -17,12 +19,12 @@ a curated list of awesome dev podcasts and why they are awesome. I don't like no
 
 - **[The Changelog](https://changelog.com/)**: Interviews of Open Source people. I skip a lot of these but its good to keep tabs on the huge world outside of JS.
 - **[Codepen Radio](https://blog.codepen.io/radio/)**: The inside look at the technical decisions behind Codepen.io.
-- **Shoptalk Show**: Chris Coiyer and Dave Rupert talk webdev.
-- **Toolsday**: Una Kravets (Bustle) and Chris Dhanaraj (Netflix) do 20 minutes of tech tools, tips, and tricks. Very packed with useful info.
-- **Non Breaking Space Show**: good webdev guests
-- **The New Stack**: Devops/Cloud topics
-- **Fixate on Code**: More good guests
-- **GraphQL Radio**: all about the GraphQL
+- **[Shoptalk Show](http://shoptalkshow.com/)**: Chris Coiyer and Dave Rupert talk webdev.
+- **[Toolsday](http://www.toolsday.io/)**: Una Kravets (Bustle) and Chris Dhanaraj (Netflix) do 20 minutes of tech tools, tips, and tricks. Very packed with useful info.
+- **[Non Breaking Space Show](https://goodstuff.fm/nbsp/)**: good webdev guests
+- **[The New Stack](https://thenewstack.io/podcasts/)**: Devops/Cloud topics
+- **[Fixate on Code](https://soundcloud.com/fixateoncode)**: More good guests
+- **[GraphQL Radio](https://graphqlradio.com/)**: all about the GraphQL
 - **The Web Platform**: browser news
 
 ## 3. Non Webdev Technical podcasts
