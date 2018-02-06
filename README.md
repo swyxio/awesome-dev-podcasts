@@ -81,6 +81,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Exponent.fm](http://exponent.fm/)**: Ben Thompson talks about his weekly articles
 - **FreeCodeCamp podcast**: good FCC articles read aloud
 - **[Autonocast](http://www.autonocast.com/)**: covering our self driving future
+- **[Frontend Happy Hour](http://frontendhappyhour.com/)**: bunch of senior devs (Netflix, Atlassian, etc) drink and talk webdev
 
 # Dead Podcasts with good backlogs
 
@@ -92,3 +93,8 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **Partially Derivative**: dead data science podcast by Chris and Vidya
 - **Product Hunt**: produc thunt podcast
 - **The Web Ahead**: by Jen Simmons
+
+
+# TODO: Recommended but havent listened
+
+- **[Soft Skills Engineering](https://softskills.audio/)**: "Soft Skills Engineering is a weekly advice podcast for software developers. We answer questions about all the stuff you didn't realize you needed to know about being an engineer"
