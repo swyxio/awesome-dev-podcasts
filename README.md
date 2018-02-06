@@ -1,6 +1,8 @@
 # awesome-dev-podcasts
 a curated list of awesome dev podcasts and why they are awesome. I don't like normal "awesome" lists because they are usually not well maintained and are typically placed without an explanation of awesome, so here i will actually go out on a limb and say what i think. i'm a webdev and former finance guy so those are my biases.
 
+list started in response to [AMA with @lucidsif](https://github.com/sw-yx/ama/issues/3)
+
 _note: links are incomplete because i havent had the time to link stuff up, you're gonna wanna just punch them in to your podcatcher anyway_
 
 # Technical Podcasts
