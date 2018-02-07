@@ -98,3 +98,8 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 # TODO: Recommended but havent listened
 
 - **[Soft Skills Engineering](https://softskills.audio/)**: "Soft Skills Engineering is a weekly advice podcast for software developers. We answer questions about all the stuff you didn't realize you needed to know about being an engineer"
+
+# Podcast Tools
+
+* [Huffduffer](https://huffduffer.com/about): Build your own RSS podcast feed from .mp3 files found anywhere on the web (e.g. individual episodes of podcasts that you might not want to subscribe to)
+* [Programming Podcasts](https://twitter.com/progpodcasts) (@prodpodcasts) Twitter account: Tweets new episode announcements for several podcasts - Great way to discover new podcasts or episodes to listen to
