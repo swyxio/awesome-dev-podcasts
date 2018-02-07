@@ -60,7 +60,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 # Nontechnical Podcasts
 
 - **Stanford DFJ ETL**: Stanford entrepreneurship talks
-- **[sychology of Video Games](http://www.psychologyofgames.com/)**: studying addictiveness from the masters
+- **[Psychology of Video Games](http://www.psychologyofgames.com/)**: studying addictiveness from the masters
 - **[Stack Overflow podcast](https://stackoverflow.blog/podcasts/)**: hilarious
 - **The Startup Chat**: sales/marketing quick hits
 - **[Zen Founder](https://zenfounder.com/)**: therapy sessions with Sherry and Rob Walling
