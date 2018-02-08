@@ -16,6 +16,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent)**: Kent Dodds in 3 minutes
 - **[Egghead.io developer chats](https://egghead.simplecast.fm/)**: by egghead.io instructors
 - **[Syntax.fm](https://syntax.fm/)**: wes bos and scott tolinski are full of tasty treats and sicccccck picks
+- **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices. Very goood interviews and great picks.
 
 ## 2. Non JS Webdev Technical podcasts
 
