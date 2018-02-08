@@ -28,6 +28,8 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Fixate on Code](https://soundcloud.com/fixateoncode)**: More good guests
 - **[GraphQL Radio](https://graphqlradio.com/)**: all about the GraphQL
 - **The Web Platform**: browser news
+- **[Elm Town](http://elmtown.audio/)**: A podcast about writing Web apps in the Elm language, and the people who make up the community
+- **[Reason Town](http://reason.town/)**: A podcast about writing Javascript with the Reason language, and the people who make up the community
 
 ## 3. Non Webdev Technical podcasts
 
