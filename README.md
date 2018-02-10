@@ -43,6 +43,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)**: very intense topical coverage of ML topics
 - **[TWiMLAI](https://twimlai.com/): This Week In Machine Learning and AI**: Sam Charrington, THE AI/ML podcast, huge.
 - **[Mapping The Journey](https://www.mappingthejourney.com/)**: interviews with very very OG creators of tech
+- **[MS Dev Show](https://msdevshow.com)**: Carl and Jason interview people working on technology that Microsoft developers would find interesting
 
 # Enreprogrammer Podcasts
 
