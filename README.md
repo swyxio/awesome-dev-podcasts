@@ -28,7 +28,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[The New Stack](https://thenewstack.io/podcasts/)**: Devops/Cloud topics
 - **[Fixate on Code](https://soundcloud.com/fixateoncode)**: More good guests
 - **[GraphQL Radio](https://graphqlradio.com/)**: all about the GraphQL
-- **The Web Platform**: browser news
+- **[The Web Platform](https://thewebplatformpodcast.com/)**: starts of with 2 minutes of browser news, and then has awesome webdev guests
 - **[Elm Town](http://elmtown.audio/)**: A podcast about writing Web apps in the Elm language, and the people who make up the community
 - **[Reason Town](http://reason.town/)**: A podcast about writing Javascript with the Reason language, and the people who make up the community
 
