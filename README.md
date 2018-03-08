@@ -9,24 +9,23 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 
 ## 1. Javascript
 
-- **Devchat.TV Master feed ([Javascript Jabber](https://devchat.tv/js-jabber), My JS Story)**: for some good interviews as well as picks
-- **[React Native Radio](https://devchat.tv/react-native-radio)**: for react native stuff
-- **[The React Podcast](https://www.spreaker.com/show/the-react-podcast)**: Michael Jackson's new podcast (not to be confused with React30)
+- **Devchat.TV Master feed ([Javascript Jabber](https://devchat.tv/js-jabber), My JS Story)**: for some good JS interviews as well as picks (at the end)
+- **[React Native Radio](https://devchat.tv/react-native-radio)**: by the React Native Training guys, what it says on the tin
+- **[The React Podcast](https://www.spreaker.com/show/the-react-podcast)**: Michael Jackson's new podcast (not to be confused with React30), 'nuff said.
 - **[JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)**: Netlify/Heavybit marketing for the JAMStack idea
-- **[3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent)**: Kent Dodds in 3 minutes
-- **[Egghead.io developer chats](https://egghead.simplecast.fm/)**: by egghead.io instructors
+- **[Egghead.io developer chats](https://egghead.simplecast.fm/)**: by egghead.io instructors :)
 - **[Syntax.fm](https://syntax.fm/)**: Wes Bos and Scott Tolinski are full of tasty treats and sicccccck picks
-- **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices. Very goood interviews and great picks.
+- **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices. Very good interviews and great picks.
 
 ## 2. Non JS Webdev Technical podcasts
 
 - **[The Changelog](https://changelog.com/)**: Interviews of Open Source people. I skip a lot of these but its good to keep tabs on the huge world outside of JS.
-- **[Codepen Radio](https://blog.codepen.io/radio/)**: The inside look at the technical decisions behind Codepen.io.
-- **[Shoptalk Show](http://shoptalkshow.com/)**: Chris Coiyer and Dave Rupert talk webdev.
-- **[Toolsday](http://www.toolsday.io/)**: Una Kravets (Bustle) and Chris Dhanaraj (Netflix) do 20 minutes of tech tools, tips, and tricks. Very packed with useful info.
-- **[Non Breaking Space Show](https://goodstuff.fm/nbsp/)**: good webdev guests
-- **[The New Stack](https://thenewstack.io/podcasts/)**: Devops/Cloud topics
-- **[Fixate on Code](https://soundcloud.com/fixateoncode)**: More good guests
+- **[Codepen Radio](https://blog.codepen.io/radio/)**: The inside look at the technical decisions behind Codepen.io. the early episodes are a GOLDMINE for entrepreogrammers (more below) but now its more just "what's going on with Codepen".
+- **[Shoptalk Show](http://shoptalkshow.com/)**: Chris Coiyer and Dave Rupert talk webdev. 'nuff said.
+- **[Toolsday](http://www.toolsday.io/)**: Una Kravets (Bustle) and Chris Dhanaraj (Netflix) do 20 minutes of tech tools, tips, and tricks. Always worth clicking through to show notes and checking out their recs.
+- **[Non Breaking Space Show](https://goodstuff.fm/nbsp/)**: good webdev guests, not really sure what the theme is apart from generic frontend.
+- **[The New Stack](https://thenewstack.io/podcasts/)**: Devops/Cloud topics - honestly a lot of it is above me but this is the most approachable by far.
+- **[Fixate on Code](https://soundcloud.com/fixateoncode)**: More good webdev guests :)
 - **[GraphQL Radio](https://graphqlradio.com/)**: all about the GraphQL
 - **[The Web Platform](https://thewebplatformpodcast.com/)**: starts of with 2 minutes of browser news, and then has awesome webdev guests
 - **[Elm Town](http://elmtown.audio/)**: A podcast about writing Web apps in the Elm language, and the people who make up the community
@@ -34,15 +33,14 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 
 ## 3. Non Webdev Technical podcasts
 
-- **[Coding Blocks](https://www.codingblocks.net/)**: Reading through and discussing coding style books.
+- **[Coding Blocks](https://www.codingblocks.net/)**: Reading through and discussing coding style books. Awesome slack community you can find me on daily :)
 - **[Talk Python To Me](https://talkpython.fm/)**: does a great job of keeping python topics accessible. Stark contrast to the monotone of Podcast.__init__ (the other big python podcast)
-- **[Data Skeptic](https://dataskeptic.com/)**: Kyle Polich mansplains data science to his wife Linh Da and she constantly gives him shit.
+- **[Data Skeptic](https://dataskeptic.com/)**: Kyle Polich mansplains data science to his wife Linh Da and she constantly gives him shit. I love it.
 - **[Linear Digressions](http://lineardigressions.com/)**: Ben and Katie talk data science, usually with a lame pun
 - **[Not So Standard Deviations](http://nssdeviations.com/)**: Roger Peng (professor somewhere) and Hilary Parker (stitchfix) talk data science
-- **[LambdaCast](https://soundcloud.com/lambda-cast)**: functional programming for humans
+- **[LambdaCast](https://soundcloud.com/lambda-cast)**: functional programming for humans, surprisingly large following.
 - **[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)**: very intense topical coverage of ML topics
 - **[TWiMLAI](https://twimlai.com/): This Week In Machine Learning and AI**: Sam Charrington, THE AI/ML podcast, huge.
-- **[Mapping The Journey](https://www.mappingthejourney.com/)**: interviews with very very OG creators of tech
 - **[MS Dev Show](https://msdevshow.com)**: Carl and Jason interview people working on technology that Microsoft developers would find interesting
 
 # Enreprogrammer Podcasts
@@ -58,12 +56,12 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Explain Blockchain](https://explainblockchain.io/)**: audio essays on intro topics
 - **[The Bitcoin Podcast](https://thebitcoinpodcast.com/)**: Cello, Dee and Corey talk smack and talk sense about crypto.
 - **[Neocash Radio](http://neocashradio.com/)**: good news recap
-- **[Lets Talk Bitcoin](https://letstalkbitcoin.com/)**: non newbie, non price discussion of blockchain developments
-- **[Unchained](http://unchainedpodcast.co/)**: laura shin (ex forbes) on crypto
+- **[Lets Talk Bitcoin](https://letstalkbitcoin.com/)**: non newbie, non price discussion of blockchain developments. Andreas Antonopoulous is on here a lot
+- **[Unchained](http://unchainedpodcast.co/)**: laura shin (ex forbes) on crypto, great guests of course.
 
 # Nontechnical Podcasts
 
-- **Stanford DFJ ETL**: Stanford entrepreneurship talks
+- **Stanford DFJ ETL**: Stanford entrepreneurship talks - a lot of OG founders are on here
 - **[Psychology of Video Games](http://www.psychologyofgames.com/)**: studying addictiveness from the masters
 - **[Stack Overflow podcast](https://stackoverflow.blog/podcasts/)**: hilarious
 - **The Startup Chat**: sales/marketing quick hits
@@ -97,6 +95,8 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **Partially Derivative**: dead data science podcast by Chris and Vidya
 - **Product Hunt**: produc thunt podcast
 - **The Web Ahead**: by Jen Simmons
+- **[3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent)**: Kent Dodds in 3 minutes
+- **[Mapping The Journey](https://www.mappingthejourney.com/)**: interviews with very very OG creators of tech
 
 
 # TODO: Recommended but havent listened
