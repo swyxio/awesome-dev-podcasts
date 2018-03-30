@@ -16,6 +16,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Egghead.io developer chats](https://egghead.simplecast.fm/)**: by egghead.io instructors :)
 - **[Syntax.fm](https://syntax.fm/)**: Wes Bos and Scott Tolinski are full of tasty treats and sicccccck picks
 - **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices. Very good interviews and great picks.
+- **[The Vanilla JavaScript Podcast](https://vanillajspodcast.com/)**: a show about JavaScript for people who hate the complexity of modern front‑end web development, hosted by [Chris Ferdinandi](https://gomakethings.com).
 
 ## 2. Non JS Webdev Technical podcasts
 
