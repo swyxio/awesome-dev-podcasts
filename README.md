@@ -43,6 +43,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)**: very intense topical coverage of ML topics
 - **[TWiMLAI](https://twimlai.com/): This Week In Machine Learning and AI**: Sam Charrington, THE AI/ML podcast, huge.
 - **[MS Dev Show](https://msdevshow.com)**: Carl and Jason interview people working on technology that Microsoft developers would find interesting
+- **[CppCast](http://cppcast.com)**: The first podcast by C++ developers for C++ developers! Hosted by Rob Irving and Jason Turner.
 
 # Enreprogrammer Podcasts
 
