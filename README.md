@@ -43,8 +43,9 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)**: very intense topical coverage of ML topics
 - **[TWiMLAI](https://twimlai.com/): This Week In Machine Learning and AI**: Sam Charrington, THE AI/ML podcast, huge.
 - **[MS Dev Show](https://msdevshow.com)**: Carl and Jason interview people working on technology that Microsoft developers would find interesting
+- **[Inside Facebook Mobile](https://www.facebook.com/careers/life/inside-facebook-mobile)**: highlights the technical work of FB's engineers who will discuss everything from low-level frameworks to end-user features by mobile devs
 
-# Enreprogrammer Podcasts
+# Entreprogrammer Podcasts
 
 - **[Startups for the Rest of Us](http://www.startupsfortherestofus.com/)**: Rob Walling, Cofounder of Drip, and Mike taber, founder of Bluetick
 - **Founder's Journey**: Josh Pigford of Baremetrics
