@@ -17,9 +17,11 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Syntax.fm](https://syntax.fm/)**: Wes Bos and Scott Tolinski are full of tasty treats and sicccccck picks
 - **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices. Very good interviews and great picks.
 - **[The Vanilla JavaScript Podcast](https://vanillajspodcast.com/)**: a show about JavaScript for people who hate the complexity of modern front‑end web development, hosted by [Chris Ferdinandi](https://gomakethings.com).
+- **[JSParty](https://changelog.com/jsparty)**: JS party is back with a huge panel of hosts!
 
 ## 2. Non JS Webdev Technical podcasts
 
+- **[The Big Web Show](http://5by5.tv/bigwebshow)**: General Web design show: "web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters." Great guests like Jen Simmons.
 - **[The Changelog](https://changelog.com/)**: Interviews of Open Source people. I skip a lot of these but its good to keep tabs on the huge world outside of JS.
 - **[Codepen Radio](https://blog.codepen.io/radio/)**: The inside look at the technical decisions behind Codepen.io. the early episodes are a GOLDMINE for entrepreogrammers (more below) but now its more just "what's going on with Codepen".
 - **[Shoptalk Show](http://shoptalkshow.com/)**: Chris Coiyer and Dave Rupert talk webdev. 'nuff said.
@@ -52,6 +54,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[Full Stack Radio](http://www.fullstackradio.com/)**: Adam Wathan
 - **Bootstrapped Web**: Brian Casel and Jordan Gal
 - **[Indie Hackers](https://www.indiehackers.com/)**: CSAllen is awesome
+- **[Building Infinite Red](http://building.infinite.red/)**: The stories behind Infinite Red - a great React Native consultancy
 
 # Crypto Podcasts
 
