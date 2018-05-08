@@ -89,6 +89,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **FreeCodeCamp podcast**: good FCC articles read aloud
 - **[Autonocast](http://www.autonocast.com/)**: covering our self driving future
 - **[Frontend Happy Hour](http://frontendhappyhour.com/)**: bunch of senior devs (Netflix, Atlassian, etc) drink and talk webdev
+- **[CoffeePod(cast)](https://coffeepod.xyz/)**: A podcast about coffee ☕ and code 👨‍💻
 
 # Dead Podcasts with good backlogs
 
