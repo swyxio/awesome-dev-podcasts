@@ -24,7 +24,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[The Big Web Show](http://5by5.tv/bigwebshow)**: General Web design show: "web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters." Great guests like Jen Simmons.
 - **[The Changelog](https://changelog.com/)**: Interviews of Open Source people. I skip a lot of these but its good to keep tabs on the huge world outside of JS.
 - **[Codepen Radio](https://blog.codepen.io/radio/)**: The inside look at the technical decisions behind Codepen.io. the early episodes are a GOLDMINE for entrepreogrammers (more below) but now its more just "what's going on with Codepen".
-- **[Shoptalk Show](http://shoptalkshow.com/)**: Chris Coiyer and Dave Rupert talk webdev. 'nuff said.
+- **[Shoptalk Show](http://shoptalkshow.com/)**: Chris Coyier and Dave Rupert talk webdev. 'nuff said.
 - **[Toolsday](http://www.toolsday.io/)**: Una Kravets (Bustle) and Chris Dhanaraj (Netflix) do 20 minutes of tech tools, tips, and tricks. Always worth clicking through to show notes and checking out their recs.
 - **[Non Breaking Space Show](https://goodstuff.fm/nbsp/)**: good webdev guests, not really sure what the theme is apart from generic frontend.
 - **[The New Stack](https://thenewstack.io/podcasts/)**: Devops/Cloud topics - honestly a lot of it is above me but this is the most approachable by far.
