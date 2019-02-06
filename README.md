@@ -98,7 +98,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **Zero To Scale**: Ended entrepreneurship podcasts
 - **Fullstack Javascript podcast**: random list of JS tips
 - **Partially Derivative**: dead data science podcast by Chris and Vidya
-- **Product Hunt**: produc thunt podcast
+- **Product Hunt**: product hunt podcast
 - **The Web Ahead**: by Jen Simmons
 - **[3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent)**: Kent Dodds in 3 minutes
 - **[Mapping The Journey](https://www.mappingthejourney.com/)**: interviews with very very OG creators of tech
