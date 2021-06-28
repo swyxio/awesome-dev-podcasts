@@ -33,6 +33,7 @@ _note: links are incomplete because i havent had the time to link stuff up, you'
 - **[The Web Platform](https://thewebplatformpodcast.com/)**: starts of with 2 minutes of browser news, and then has awesome webdev guests
 - **[Elm Town](http://elmtown.audio/)**: A podcast about writing Web apps in the Elm language, and the people who make up the community
 - **[Reason Town](http://reason.town/)**: A podcast about writing Javascript with the Reason language, and the people who make up the community
+- **[The CSS Podcast](https://thecsspodcast.libsyn.com/)**: by couple of Google's developer advocates. Talks about all the awesome things happening in CSS world.
 
 ## 3. Non Webdev Technical podcasts
 
